@@ -1,0 +1,6 @@
+﻿  UniversityStudent.cpp
+C:\Users\Huynh Cong Chien\source\repos\UniversityStudent\UniversityStudent\UniversityStudent.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huynh Cong Chien\source\repos\UniversityStudent\UniversityStudent\UniversityStudent.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huynh Cong Chien\source\repos\UniversityStudent\UniversityStudent\UniversityStudent.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Huynh Cong Chien\source\repos\UniversityStudent\UniversityStudent\UniversityStudent.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+  UniversityStudent.vcxproj -> C:\Users\Huynh Cong Chien\source\repos\UniversityStudent\x64\Debug\UniversityStudent.exe
